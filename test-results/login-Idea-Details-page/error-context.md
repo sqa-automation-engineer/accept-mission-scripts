@@ -1,0 +1,246 @@
+# Page snapshot
+
+```yaml
+- link "avatar":
+  - /url: /dashboard
+  - img "avatar"
+- text: Trial ends in 4 days
+- list:
+  - listitem:
+    - link "Innovation Studio":
+      - /url: /admin-studio
+      - img
+      - text: Innovation Studio
+  - listitem:
+    - link "Ideas":
+      - /url: /studio/ideas/2/kanban
+      - img
+      - text: Ideas
+  - listitem:
+    - button "Missions":
+      - img
+      - text: Missions
+      - img
+  - listitem:
+    - link "Group Selection":
+      - /url: /selections
+      - img
+      - text: Group Selection
+  - listitem:
+    - link "Projects":
+      - /url: /studio/projects/0/list
+      - img
+      - text: Projects
+  - listitem:
+    - link "Canvases":
+      - /url: /studio/canvases
+      - img
+      - text: Canvases
+  - listitem:
+    - link "People":
+      - /url: /settings/user-management
+      - img
+      - text: People
+  - listitem:
+    - link "Funnels":
+      - /url: /funnels
+      - img
+      - text: Funnels
+  - listitem:
+    - link "Dashboard":
+      - /url: /dashboard
+      - img
+      - text: Dashboard
+  - listitem:
+    - link "Innovation Portal":
+      - /url: /home
+      - img
+      - text: Innovation Portal
+  - listitem:
+    - link "Tasks":
+      - /url: /studio/tasks
+      - img
+      - text: Tasks
+  - listitem:
+    - link "AI-Tools":
+      - /url: /studio/ai-tools
+      - img
+      - text: AI-Tools
+  - listitem:
+    - link "Settings":
+      - /url: /settings
+      - img
+      - text: Settings
+  - listitem:
+    - link "Support":
+      - /url: https://support.acceptmission.com
+      - img
+      - text: Support
+- list:
+  - listitem:
+    - button "Collapse":
+      - img
+      - text: Collapse
+- heading "Idea details" [level=5]
+- img
+- textbox "Search..."
+- text: "3"
+- img
+- text: "115"
+- link "Muhammad Ahsan":
+  - /url: "#!"
+  - img
+  - text: Muhammad Ahsan
+  - img
+- list:
+  - listitem:
+    - button "Idea":
+      - img
+      - text: Idea
+  - listitem:
+    - button "Details":
+      - img
+      - text: Details
+  - listitem:
+    - button "Comments":
+      - img
+      - text: Comments
+  - listitem:
+    - button "Tasks 0":
+      - img
+      - text: Tasks 0
+  - listitem:
+    - link "Canvas":
+      - /url: /studio/ideas/new-idea-with-automation/canvas?t_id=0ba8e364-4115-497a-a953-fd64e9d4945c
+      - img
+      - text: Canvas
+- link:
+  - /url: /ideas/309/move_previous
+  - img
+- link:
+  - /url: /ideas/309/move_next
+  - img
+- button "Learn":
+  - img
+  - text: Learn
+  - img
+- link "User View":
+  - /url: /ideas/309
+- link "View funnel":
+  - /url: /studio/ideas/2/kanban
+- button "AI Tools":
+  - img
+  - text: AI Tools
+  - img
+- button "Action":
+  - text: Action
+  - img
+- button "Save Idea"
+- text: Funnel
+- combobox:
+  - text: QA Testing (Bugs)
+  - img
+- text: Lane
+- combobox:
+  - text: Select Stage
+  - img
+- text: Mission
+- combobox:
+  - text: A NEW COMPAIGN FOR TESTING
+  - img
+- text: Idea deadline
+- button "Pick a date":
+  - img
+  - text: Pick a date
+- text: Department
+- combobox:
+  - text: Quality Assurance
+  - img
+- text: Categories
+- button "New Category":
+  - text: New Category
+  - img
+  - img
+  - img
+- text: Idea type
+- combobox:
+  - text: Ideas
+  - img
+- text: Innovation Type
+- combobox:
+  - text: Select Type
+  - img
+- text: Status
+- combobox:
+  - img
+  - text: Submitted
+  - img
+- text: Status Reason
+- button "Select Reasons":
+  - text: Select Reasons
+  - img
+- text: Owner
+- combobox:
+  - img "Related Image"
+  - text: Muhammad Ahsan
+  - img
+- text: Creator
+- combobox:
+  - img "Related Image"
+  - text: Muhammad Ahsan
+  - img
+- text: Admin comments
+- application:
+  - group:
+    - group:
+      - toolbar:
+        - button "Undo" [disabled]:
+          - img
+        - button "Redo" [disabled]:
+          - img
+      - toolbar:
+        - button "Paste as text" [pressed]:
+          - img
+        - button "Clear formatting":
+          - img
+      - toolbar:
+        - button "Bold":
+          - img
+        - button "Italic":
+          - img
+        - button "Underline":
+          - img
+      - toolbar:
+        - button "Align left":
+          - img
+        - button "Align center":
+          - img
+        - button "Align right":
+          - img
+        - button "Justify":
+          - img
+      - toolbar:
+        - button "Insert/edit link":
+          - img
+        - button "Bullet list":
+          - img
+        - button "Numbered list":
+          - img
+      - toolbar:
+        - button "Background color":
+          - img
+          - img
+        - button "Blockquote":
+          - img
+  - iframe
+  - complementary
+  - navigation:
+    - button "p"
+  - link "Powered by Tiny":
+    - /url: https://www.tiny.cloud/?utm_campaign=editor_referral&utm_medium=poweredby&utm_source=tinymce&utm_content=v5
+  - img
+- region "Notifications alt+T"
+- button "Open Intercom Messenger":
+  - img
+  - img
+```
